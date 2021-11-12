@@ -1,0 +1,2 @@
+Array.prototype.includes
+Number.prototype.includes

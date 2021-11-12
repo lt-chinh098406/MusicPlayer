@@ -1,0 +1,1 @@
+var aElements = document.anchors

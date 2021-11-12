@@ -1,0 +1,7 @@
+var depthArray = [1, 2, [3, 4], 5, 6, [7, 8, 9]]
+
+var flatArray = depthArray.reduce(function(flatOutput, depthItem) {
+  return flatOutput.concat(depthItem)
+}, [])
+
+console.log(flatArray)

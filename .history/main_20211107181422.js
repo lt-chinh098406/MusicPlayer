@@ -1,0 +1,1 @@
+onclick="console.log(this.textContent)"

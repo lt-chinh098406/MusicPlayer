@@ -1,0 +1,31 @@
+// for
+// var i = 0
+// for (; i <= 10;) {
+//   ++i
+//   console.log(i)
+// }
+
+// for in : Lay key of Object
+// var myInfo = {
+//   name: 'Chinh Le',
+//   age: 22,
+//   address: 'Hue, VN'
+// }
+
+// var languages = [
+//   'JS',
+//   'PHP',
+//   'Ruby'
+// ]
+
+var myString = 'Javascript'
+
+for (var key in myString) {
+  console.log(key)
+}
+
+// for of
+
+// while
+
+// do/while

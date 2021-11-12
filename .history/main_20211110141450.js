@@ -1,0 +1,1 @@
+var coursesApi = 'http://localhost:3000/courses'

@@ -1,0 +1,1 @@
+var headingNode = document.getElementById('heading')

@@ -1,0 +1,1 @@
+var array = ['Javascript', 'PHP', 'Ruby']
